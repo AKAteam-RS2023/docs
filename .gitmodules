@@ -1,6 +1,0 @@
-[submodule "dist"]
-    path = dist
-    url = https://github.com/AKAteam-RS2023/docs.git
-[submodule "reveal.js"]
-    path = reveal.js
-    url = https://github.com/hakimel/reveal.js.git
